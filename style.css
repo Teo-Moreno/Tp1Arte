@@ -40,7 +40,7 @@ body {
 }
 
 main {
-  margin-top: 5%;
+  margin-top: 7%;
   background-color: black;
   width: 80%;
   margin-right: 10%;
@@ -92,6 +92,104 @@ section div {
   width: 90%;
   padding: 5%;
   padding-top: 2%;
+}
+
+.hero {
+  width: 100%;
+  margin-bottom: 4%;
+}
+
+.hero div {
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.hero img {
+  width: 100%;
+  height: 300px;
+  display: block;
+  margin: 2% 0;
+  border: 1px solid rgb(70, 70, 70);
+}
+
+.fundamentos {
+  width: 60%;
+  float: left;
+  margin-bottom: 4%;
+}
+
+.fundamentos h3 {
+  margin-bottom: 2%;
+}
+
+.fundamentos p {
+  margin-bottom: 3%;
+}
+
+.mapa {
+  width: 35%;
+  float: right;
+  margin-bottom: 4%;
+}
+
+.mapa img {
+  width: 100%;
+  height: 200px;
+  display: block;
+  margin-bottom: 3%;
+  border: 1px solid rgb(70, 70, 70);
+}
+
+.mapa p {
+  text-align: center;
+}
+
+.vision,
+.estrategia {
+  width: 100%;
+  clear: both;
+
+  margin-bottom: 3%;
+}
+
+.vision h3,
+.estrategia h3 {
+  margin-bottom: 2%;
+}
+
+.vision p,
+.estrategia p {
+  margin-bottom: 2%;
+}
+
+.dragon,
+.baron,
+.teamfight,
+.splitpush {
+  width: 42%;
+
+  float: left;
+
+  margin-left: 4%;
+  margin-bottom: 4%;
+
+  padding: 1%;
+
+  border: 2px solid rgb(70, 70, 70);
+  background-color: rgb(25, 25, 25);
+
+  text-align: center;
+}
+
+.dragon img,
+.baron img,
+.teamfight img,
+.splitpush img {
+  width: 100%;
+  height: 200px;
+  margin-bottom: 3%;
+  border: 1px solid rgb(70, 70, 70);
 }
 
 h1 {
