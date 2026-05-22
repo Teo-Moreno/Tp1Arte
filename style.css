@@ -108,7 +108,6 @@ section div {
 .hero img {
   width: 100%;
   height: 300px;
-  display: block;
   margin: 2% 0;
   border: 1px solid rgb(70, 70, 70);
 }
@@ -136,7 +135,6 @@ section div {
 .mapa img {
   width: 100%;
   height: 200px;
-  display: block;
   margin-bottom: 3%;
   border: 1px solid rgb(70, 70, 70);
 }
@@ -149,7 +147,6 @@ section div {
 .estrategia {
   width: 100%;
   clear: both;
-
   margin-bottom: 3%;
 }
 
@@ -168,17 +165,12 @@ section div {
 .teamfight,
 .splitpush {
   width: 42%;
-
   float: left;
-
   margin-left: 4%;
   margin-bottom: 4%;
-
   padding: 1%;
-
   border: 2px solid rgb(70, 70, 70);
   background-color: rgb(25, 25, 25);
-
   text-align: center;
 }
 
